@@ -45,4 +45,4 @@ The rep counter is implemented using a simple state transition model:
 - **AI-Based Form Correction:** Suggesting posture improvements using deep learning models.
 
 ## Conclusion
-This project demonstrates **real-time gym pose estimation and repetition counting**, providing users with a **smart fitness tracking** solution. By leveraging **pose detection and joint angle analysis**, the system enhances workout quality and reduces injury risk. Future advancements will focus on **real-time feedback, multi-exercise support, and AI-powered form correction**.
+This project demonstrates **real-time gym pose estimation and repetition counting**, providing users with a **smart fitness tracking** solution. By leveraging **pose detection and joint angle analysis**, the system enhances workout quality and reduces injury risk. Future advancements will focus on Smartwatch & Fitness Band Integration: Tracking movements with wearables for better accuracy and More Exercise Support: Expanding the system to cover more workout types.
