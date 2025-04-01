@@ -37,7 +37,6 @@ The rep counter is implemented using a simple state transition model:
 ## Results
 - **Accuracy:** The pose estimation achieves **high precision** in detecting key points.
 - **Repetition Counting:** Provides **real-time tracking** with minimal error.
-- **Evaluation Metrics:** Accuracy, precision, recall, and F1-score used for performance assessment.
 
 ## Future Scope
 - **Adding More Exercises:** Extend to squats, push-ups, lunges, and deadlifts.
